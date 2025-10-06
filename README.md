@@ -1,5 +1,5 @@
 # Newsletter Management App 
-This repository contains my solution for a university project: a newsletter management application written entirely in Bash & Python. 🐚
+This repository contains my solution for a university project: a newsletter management application written entirely in Bash & Python. 
 
 ## What I Learned
 
